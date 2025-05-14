@@ -1,0 +1,412 @@
+<div align="center">
+<h1><kbd>🧩 DNAView</kbd></h1>
+An extension for MIT App Inventor 2.<br>
+This component provides a comprehensive visualization of DNA and human body shapes. It is designed to facilitate educational exploration of the human body and its intricate structures. Developed by TechHamara using the Fast framework, this component offers a unique blend of DNA and body part visualizations, enabling users to delve into the fascinating world of human anatomy and genetics.<br><a href='https://t.me/techhamara91/' target='_blank'>Telegram</a> | <a href='https://github.com/TechHamara/' target='_blank'>GitHub</a><br><a href='https://techhamara.blogspot.com/' target='_blank'>Blogger</a> | <a href='https://m.youtube.com/c/TECHHAMARA?sub_confirmation=1' target='_blank'>YouTube</a><br><a href='https://github.com/TechHamara/Th_Free_Extensions' target='_blank'><small><u>Find More Extension</u></small></a><br><a href='https://github.com/TechHamara/Th_Extensions_List/blob/main/LICENSE.md#terms-and-conditions-for-the-extension' target='_blank'><small><u>Terms & Conditions</u></small></a>
+</div>
+
+## 📝 Specifications
+* **
+📦 **Package:** io.th.dnaview
+💾 **Size:** 55.02 KB
+⚙️ **Version:** 1.0
+📱 **Minimum API Level:** 7
+📅 **Updated On:** [date=2025-05-14 timezone="Asia/Calcutta"]
+💻 **Built & documented using:** [FAST](https://community.appinventor.mit.edu/t/fast-an-efficient-way-to-build-extensions/129103?u=jewel) <small><mark>v2.8.4</mark></small>
+
+## <kbd>Methods:</kbd>
+**DNAView** has total 5 methods.
+
+### Initialize
+Initialize DNA Shape view inside an arrangement.
+
+| Parameter | Type
+| - | - |
+| arrangement | component
+
+### StartAnimation
+Start the DNA animation.
+
+### StopAnimation
+Stop the DNA animation.
+
+### ShowDNAShapeView
+Show the DNA shape view. Makes it visible.
+
+### HideDNAShapeView
+Hide the DNA shape view. Makes it invisible.
+
+## <kbd>Setters:</kbd>
+**DNAView** has total 37 setter properties.
+
+### StrandColor1
+Set the first strand color of the DNA helix.
+
+* Input type: `number`
+
+### StrandColor2
+Set the second strand color of the DNA helix.
+
+* Input type: `number`
+
+### BaseColor
+Set the base pair color of the DNA helix.
+
+* Input type: `number`
+
+### BackgroundColor
+Set the background color of the DNA view.
+
+* Input type: `number`
+
+### RotationSpeed
+Set the rotation speed of the DNA animation.
+
+* Input type: `number`
+
+### IsAnimating
+Set whether the DNA should animate or not.
+
+* Input type: `boolean`
+
+### NumberOfBases
+Set the number of base pairs in the DNA helix.
+
+* Input type: `number`
+
+### HelixDiameter
+Set the diameter of the DNA helix. For example, a diameter of 10 would set the width of the DNA helix to 10 units.
+
+* Input type: `number`
+
+### HelixPitch
+Set the pitch (vertical distance between turns) of the DNA helix. For example, a pitch of 10 would set the vertical distance between each turn of the helix to 10 units.
+
+* Input type: `number`
+
+### ShowBaseLabels
+Set whether to show base labels (A, T, G, C) or not.
+
+* Input type: `boolean`
+
+### TextColor
+Set the color of the base labels text.
+
+* Input type: `number`
+
+### TextSize
+Set the size of the base labels text. For example, a value of 10 would set the text size to 10 pixels.
+
+* Input type: `number`
+
+### TextBold
+Set whether the text should be bold or not.
+
+* Input type: `boolean`
+
+### TextItalic
+Set whether the text should be italic or not.
+
+* Input type: `boolean`
+
+### FontFamily
+Set the font family for the text. Valid values are 'sans-serif', 'serif', and 'monospace'.
+
+* Input type: `text`
+
+### BaseLabelOffset
+Set the base label offset from the base pair line. For example, a value of 10 would move the base labels 10 pixels away from the base pair line.
+
+* Input type: `number`
+
+### ShowBodyPart
+Set whether to show a body part visualization alongside the DNA.
+
+* Input type: `boolean`
+
+### BodyPartType
+Set the type of body part to display. Options: 'heart', 'brain', 'cell', 'dna', 'lungs', 'liver', 'kidney', 'muscle', 'neuron', 'skin', 'bone', 'eye', 'hair', 'nose', 'lips', 'teeth', 'mouth', 'tongue', 'ear'
+
+* Input type: `text`
+* Helper type: `BodyType`
+* Helper enums: `Heart`, `Brain`, `Cell`, `Dna`, `Lungs`, `Liver`, `Kidney`, `Muscle`, `Neuron`, `Skin`, `Bone`, `Eye`, `Hair`, `Nose`, `Lips`, `Teeth`, `Mouth`, `Tongue`, `Ear`
+
+### BonePartType
+Set the type of bone part to display. Options: 'hand', 'skull', 'ribcage', 'spine', 'pelvis', 'femur', 'foot', 'finger', 'skeleton'
+
+* Input type: `text`
+* Helper type: `BoneType`
+* Helper enums: `Hand`, `Skull`, `Ribcage`, `Spine`, `Pelvis`, `Femur`, `Foot`, `Finger`, `Skeleton`
+
+### BodyColor
+Set the main color of the body part.
+
+* Input type: `number`
+
+### OrganColor
+Set the color of internal organs in the body part.
+
+* Input type: `number`
+
+### CellColor
+Set the color of cells in the body part.
+
+* Input type: `number`
+
+### ShowOrgans
+Set whether to show organs within the body part.
+
+* Input type: `boolean`
+
+### ShowCells
+Set whether to show cells within the body part.
+
+* Input type: `boolean`
+
+### BodyScale
+Set the scale of the body part visualization (1.0 = 100%).
+
+* Input type: `number`
+
+### BodyXOffset
+Set the horizontal offset of the body part visualization.
+
+* Input type: `number`
+
+### BodyYOffset
+Set the vertical offset of the body part visualization.
+
+* Input type: `number`
+
+### BodyTextSize
+Set the text size for the body part labels.
+
+* Input type: `number`
+
+### BodyTextColor
+Set the text color for the body part labels.
+
+* Input type: `number`
+
+### BaseLabels
+Set custom base labels (e.g., 'A,T,G,C').
+
+* Input type: `text`
+
+### BoneColor
+Set the main color of the bones.
+
+* Input type: `number`
+
+### JointColor
+Set the color of joints in the bone part.
+
+* Input type: `number`
+
+### CartilageColor
+Set the color of cartilage in the bone part.
+
+* Input type: `number`
+
+### ShowJoints
+Set whether to show joints within the bone part.
+
+* Input type: `boolean`
+
+### ShowCartilage
+Set whether to show cartilage within the bone part.
+
+* Input type: `boolean`
+
+### BoneTextSize
+Set the text size for the bone part labels.
+
+* Input type: `number`
+
+### BoneTextColor
+Set the text color for the bone part labels.
+
+* Input type: `number`
+
+## <kbd>Getters:</kbd>
+**DNAView** has total 36 getter properties.
+
+### StrandColor1
+Set the first strand color of the DNA helix.
+
+* Return type: `number`
+
+### StrandColor2
+Set the second strand color of the DNA helix.
+
+* Return type: `number`
+
+### BaseColor
+Set the base pair color of the DNA helix.
+
+* Return type: `number`
+
+### BackgroundColor
+Set the background color of the DNA view.
+
+* Return type: `number`
+
+### RotationSpeed
+Set the rotation speed of the DNA animation.
+
+* Return type: `number`
+
+### IsAnimating
+Set whether the DNA should animate or not.
+
+* Return type: `boolean`
+
+### NumberOfBases
+Set the number of base pairs in the DNA helix.
+
+* Return type: `number`
+
+### HelixDiameter
+Set the diameter of the DNA helix. For example, a diameter of 10 would set the width of the DNA helix to 10 units.
+
+* Return type: `number`
+
+### HelixPitch
+Set the pitch (vertical distance between turns) of the DNA helix. For example, a pitch of 10 would set the vertical distance between each turn of the helix to 10 units.
+
+* Return type: `number`
+
+### ShowBaseLabels
+Set whether to show base labels (A, T, G, C) or not.
+
+* Return type: `boolean`
+
+### TextColor
+Set the color of the base labels text.
+
+* Return type: `number`
+
+### TextSize
+Set the size of the base labels text. For example, a value of 10 would set the text size to 10 pixels.
+
+* Return type: `number`
+
+### TextBold
+Set whether the text should be bold or not.
+
+* Return type: `boolean`
+
+### TextItalic
+Set whether the text should be italic or not.
+
+* Return type: `boolean`
+
+### FontFamily
+Set the font family for the text. Valid values are 'sans-serif', 'serif', and 'monospace'.
+
+* Return type: `text`
+
+### BaseLabelOffset
+Set the base label offset from the base pair line. For example, a value of 10 would move the base labels 10 pixels away from the base pair line.
+
+* Return type: `number`
+
+### ShowBodyPart
+Set whether to show a body part visualization alongside the DNA.
+
+* Return type: `boolean`
+
+### BodyPartType
+Set the type of body part to display. Options: 'heart', 'brain', 'cell', 'dna', 'lungs', 'liver', 'kidney', 'muscle', 'neuron', 'skin', 'bone', 'eye', 'hair', 'nose', 'lips', 'teeth', 'mouth', 'tongue', 'ear'
+
+* Return type: `text`
+
+### BonePartType
+Set the type of bone part to display. Options: 'hand', 'skull', 'ribcage', 'spine', 'pelvis', 'femur', 'foot', 'finger', 'skeleton'
+
+* Return type: `text`
+
+### BodyColor
+Set the main color of the body part.
+
+* Return type: `number`
+
+### OrganColor
+Set the color of internal organs in the body part.
+
+* Return type: `number`
+
+### CellColor
+Set the color of cells in the body part.
+
+* Return type: `number`
+
+### ShowOrgans
+Set whether to show organs within the body part.
+
+* Return type: `boolean`
+
+### ShowCells
+Set whether to show cells within the body part.
+
+* Return type: `boolean`
+
+### BodyScale
+Set the scale of the body part visualization (1.0 = 100%).
+
+* Return type: `number`
+
+### BodyXOffset
+Set the horizontal offset of the body part visualization.
+
+* Return type: `number`
+
+### BodyYOffset
+Set the vertical offset of the body part visualization.
+
+* Return type: `number`
+
+### BodyTextSize
+Set the text size for the body part labels.
+
+* Return type: `number`
+
+### BodyTextColor
+Set the text color for the body part labels.
+
+* Return type: `number`
+
+### BoneColor
+Set the main color of the bones.
+
+* Return type: `number`
+
+### JointColor
+Set the color of joints in the bone part.
+
+* Return type: `number`
+
+### CartilageColor
+Set the color of cartilage in the bone part.
+
+* Return type: `number`
+
+### ShowJoints
+Set whether to show joints within the bone part.
+
+* Return type: `boolean`
+
+### ShowCartilage
+Set whether to show cartilage within the bone part.
+
+* Return type: `boolean`
+
+### BoneTextSize
+Set the text size for the bone part labels.
+
+* Return type: `number`
+
+### BoneTextColor
+Set the text color for the bone part labels.
+
+* Return type: `number`
+
