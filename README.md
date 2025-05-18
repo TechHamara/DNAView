@@ -18,6 +18,20 @@ This component provides a comprehensive visualization of DNA and human body shap
 
 ![blocks](https://github.com/user-attachments/assets/26b874ca-c40e-4b98-845a-3a20ddcef5ea)
 
+-----
+
+![Screenshot_2025-05-18-20-01-50-439_appinventor.ai_Techhamara91.dna.jpg](https://github.com/user-attachments/assets/5ac9f0c8-4a06-4567-bf67-1d1c4789ee6e)
+
+![Screenshot_2025-05-18-20-02-03-466_appinventor.ai_Techhamara91.dna.jpg](https://github.com/user-attachments/assets/d5c9f283-f6fd-45a5-8412-bcc90e98d4b5)
+
+![Screenshot_2025-05-18-20-02-12-229_appinventor.ai_Techhamara91.dna.jpg](https://github.com/user-attachments/assets/e9659381-7dc6-44cf-b1ee-c7b0f886df96)
+
+![Screenshot_2025-05-18-20-02-28-751_appinventor.ai_Techhamara91.dna.jpg](https://github.com/user-attachments/assets/92767cc3-cb36-4bde-a032-1023cc5941ed)
+
+![Screenshot_2025-05-18-20-02-25-130_appinventor.ai_Techhamara91.dna.jpg](https://github.com/user-attachments/assets/b33f3cef-2919-4f7b-bec5-f67016391c79)
+
+![Screenshot_2025-05-18-20-03-40-939_appinventor.ai_Techhamara91.dna.jpg](https://github.com/user-attachments/assets/26542d56-ba40-459c-b60a-db737d7b73af)
+
 
 ## Blocks
 
