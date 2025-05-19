@@ -522,3 +522,5 @@ Set the text color for the bone part labels.
 
 ## Thanks
 TechHamara
+
+ai2 Community [here](https://community.appinventor.mit.edu/t/free-dnaview-a-visualization-of-dna-and-human-body-shapes/148295?u=techhamara)
