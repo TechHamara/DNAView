@@ -24,13 +24,16 @@ This component provides a comprehensive visualization of DNA and human body shap
 
 ![Screenshot_2025-05-18-20-02-03-466_appinventor.ai_Techhamara91.dna.jpg](https://github.com/user-attachments/assets/d5c9f283-f6fd-45a5-8412-bcc90e98d4b5)
 
-![Screenshot_2025-05-18-20-02-12-229_appinventor.ai_Techhamara91.dna.jpg](https://github.com/user-attachments/assets/e9659381-7dc6-44cf-b1ee-c7b0f886df96)
-
-![Screenshot_2025-05-18-20-02-28-751_appinventor.ai_Techhamara91.dna.jpg](https://github.com/user-attachments/assets/92767cc3-cb36-4bde-a032-1023cc5941ed)
-
 ![Screenshot_2025-05-18-20-02-25-130_appinventor.ai_Techhamara91.dna.jpg](https://github.com/user-attachments/assets/b33f3cef-2919-4f7b-bec5-f67016391c79)
 
-![Screenshot_2025-05-18-20-03-40-939_appinventor.ai_Techhamara91.dna.jpg](https://github.com/user-attachments/assets/26542d56-ba40-459c-b60a-db737d7b73af)
+![Screenshot_2025-05-19-07-48-09-317_appinventor.ai_Techhamara91.dna.jpg](https://github.com/user-attachments/assets/23528942-0298-4722-a5ab-398fd3b38d77)
+
+![Screenshot_2025-05-19-07-49-12-631_appinventor.ai_Techhamara91.dna.jpg](https://github.com/user-attachments/assets/f5c4d869-5758-40cd-8493-2878605c169f)
+
+![Screenshot_2025-05-19-07-48-15-173_appinventor.ai_Techhamara91.dna.jpg](https://github.com/user-attachments/assets/9fdad0eb-c9a2-405f-ab59-c213c01fd8e4)
+
+![Screenshot_2025-05-19-07-48-40-001_appinventor.ai_Techhamara91.dna.jpg](https://github.com/user-attachments/assets/12f3917a-0b58-41ee-b3c5-6602bfffd217)
+
 
 https://youtube.com/shorts/501YvrvLN8g?si=kvnUv8-07SWiCZ8i
 
